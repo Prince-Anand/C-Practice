@@ -28,12 +28,12 @@ Excited to put in more effort and continue learning on Day 1.
 - Hacking
 - Web Development
 - App Development
-<!-- For details refer my X Profile and GitHub Homepage. -->
+<!-- For details refer to my X Profile and GitHub Homepage. -->
 
 ## Connect with Me
 
 - GitHub: [Prince-Anand](https://github.com/Prince-Anand)
-- Twitter: [@anand_prin43079](https://twitter.com/anand_prin43079)
+- Twitter/X : [@anand_prin43079](https://twitter.com/anand_prin43079)
 - LinkedIn: [Prince Anand](https://www.linkedin.com/in/prince-anand)
 
 ## Acknowledgments
