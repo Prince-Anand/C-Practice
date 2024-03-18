@@ -12,3 +12,4 @@ int main() {
     
     return 0;
 }
+//ques... how to know how many times a loop runs?
